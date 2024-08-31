@@ -1,0 +1,6 @@
+.env
+node_moules
+yarn.lock
+package-lock.json
+private.pem
+public.pem
